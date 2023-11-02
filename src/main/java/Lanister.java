@@ -1,5 +1,3 @@
-package org.example;
-
 public class Lanister {
     public static void main(String[] args) {
         int infantry = 1500;
